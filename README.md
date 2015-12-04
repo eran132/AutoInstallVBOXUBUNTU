@@ -1,2 +1,2 @@
 # AutoInstallVBOXUBUNTU
-Auto Installation of VBOXin ubuntu
+Auto Installation of VBOX in ubuntu
